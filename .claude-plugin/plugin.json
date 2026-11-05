@@ -1,0 +1,1 @@
+{ "name": "context-bar", "version": "0.1.0", "description": "A bar above the prompt showing context window use and plan usage limits", "types": "./types/index.d.ts" }

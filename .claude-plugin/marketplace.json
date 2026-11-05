@@ -1,0 +1,5 @@
+{
+  "name": "context-bar",
+  "owner": { "name": "Thalman Thilak" },
+  "plugins": [{ "name": "context-bar", "source": "./" }]
+}
